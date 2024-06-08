@@ -75,7 +75,7 @@ As a fresh graduate, there are certain steps you can take to significantly incre
 - **Ask Questions:** When asked if you have any questions, ask about the company culture, projects, or feedback.
 
 ### Additional Resources
-- **How to Land an Internship:** [Watch here](https://www.youtube.com/@ehmadzubair)
+- **How to Land an Internship:** [Watch here](https://www.youtube.com/watch?v=ciIlfZRO8o0&t=376s)
 
 #### YouTube Channels to Subscribe:
 - **Ehmad Zubair:** [Latest Tech Trends](https://www.youtube.com/@ehmadzubair)
